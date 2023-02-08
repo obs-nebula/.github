@@ -6,6 +6,7 @@ This GitHub organization works as follows:
   * We create new things here first, and then if make sense to create a new repository we can close the issue and continue on the created repository.
   * It's also a good place to create issues that affect multiple repositories.
 
+* We are using Node [LTS](https://github.com/nodejs/release#release-schedule)
 
 # About our repositories
 
